@@ -1,6 +1,19 @@
 ## Hi there I am Priyanka👋
 I recently earned my Master's in Computer Science, focusing on software development, maintenance, and reverse engineering, with further exploration in machine learning and neural networks. I have six years of professional experience, where I built a strong foundation in full-stack development. Following Agile methodology, I migrated a monolithic architecture to microservices using Java, Angular, PL/SQL, and relational databases. I enhanced my skills with Java-based cloud-hosted applications, Angular, and NoSQL databases, and gained experience working with Azure and AWS services.
 
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 ## Skills & Experience
 - **Programming Languages:** Java, R, SQL, C, C++, PL/SQL, JavaScript, and Python.
 - **Web Development:** JSP, Servlets, XML, Angular, React, Restful APIs, HTML, and CSS.
