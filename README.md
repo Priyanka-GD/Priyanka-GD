@@ -1,7 +1,7 @@
-## Hi there I am Priyanka👋
+## Hi there I am Priyanka!
 I recently earned my Master's in Computer Science, focusing on software development, maintenance, and reverse engineering, with further exploration in machine learning and neural networks. I have six years of professional experience, where I built a strong foundation in full-stack development. Following Agile methodology, I migrated a monolithic architecture to microservices using Java, Angular, PL/SQL, and relational databases. I enhanced my skills with Java-based cloud-hosted applications, Angular, and NoSQL databases, and gained experience working with Azure and AWS services.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
