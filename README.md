@@ -11,9 +11,9 @@ I recently earned my Master's in Computer Science, focusing on software developm
 
 ## Certifications
 
-- **Java (Basic) Certificate** - HackerRank (Issued May 2024)
+- **Java (Basic) Certificate** - HackerRank 
 
-- **Problem Solving Certificate** - HackerRank (Issued May 2024)
+- **Problem Solving Certificate** - HackerRank 
 
 - **Responsible Conduct of Research for Engineers** - CITI Program 
 
@@ -21,7 +21,7 @@ I recently earned my Master's in Computer Science, focusing on software developm
 
 - **Social/Behavioral Research Course** - CITI Program 
 
-- **Microsoft Certified: Azure Fundamentals** - Microsoft (Issued Feb 2021)
+- **Microsoft Certified: Azure Fundamentals** - Microsoft 
 
 - **Scrum Foundation Professional Certificate** - CertiProf 
 
