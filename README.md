@@ -37,7 +37,7 @@ I recently earned my Master's in Computer Science, focusing on software developm
 
 - **Responsible Conduct of Research for Engineers** - CITI Program 
 
-- **Social and Behavioral Responsible Conduct of Research** 
+- **Social and Behavioral Responsible Conduct of Research** - CITI Program
 
 - **Social/Behavioral Research Course** - CITI Program 
 
