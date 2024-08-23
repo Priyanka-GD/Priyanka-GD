@@ -1,5 +1,5 @@
 ## Hi there I am Priyanka👋
-I recently earned my Master's in Computer Science, focusing on software development, maintenance, and reverse engineering, with further exploration in machine learning and neural networks. I have six years of professional experience, having worked at Deloitte and TCS, where I built a strong foundation in full-stack development. At TCS, I migrated a monolithic architecture to microservices, following Agile methodology, using Java, Angular, PL/SQL, and relational databases. At Deloitte, I enhanced my skills with Java-based cloud-hosted applications, Angular, and NoSQL databases, and gained experience working with Azure and AWS services.
+I recently earned my Master's in Computer Science, focusing on software development, maintenance, and reverse engineering, with further exploration in machine learning and neural networks. I have six years of professional experience, where I built a strong foundation in full-stack development. Following Agile methodology, I migrated a monolithic architecture to microservices using Java, Angular, PL/SQL, and relational databases. I enhanced my skills with Java-based cloud-hosted applications, Angular, and NoSQL databases, and gained experience working with Azure and AWS services.
 
 ## Skills & Experience
 - **Programming Languages:** Java, R, SQL, C, C++, PL/SQL, JavaScript, and Python.
