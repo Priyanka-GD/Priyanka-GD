@@ -39,10 +39,6 @@ Here's a summary of your certifications in bullet points:
 - **MongoDB Course Completion Certificate** - Udemy (Issued May 2020)
   - Skills: MongoDB
 
-- **Collections Specialist** - Aspiring Minds
-  - Credential ID: 1875829-197
-  - Skills: Data Analysis
-
 - **Data Processing Specialist** - Aspiring Minds
   - Credential ID: 1875829-211
   - Skills: Data Science
