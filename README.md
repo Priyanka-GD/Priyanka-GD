@@ -50,6 +50,10 @@ I recently earned my Master's in Computer Science, focusing on software developm
 - **Data Processing Specialist** - Aspiring Minds
 
 - **Spring Boot Certificate** - Udemy
+
+- **AWS Educate Introduction to Cloud 101** - AWS
+
+- **Getting Started with Compute (AWS Labs)** - AWS
 <!--
 **Priyanka-GD/Priyanka-GD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
